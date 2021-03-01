@@ -8,6 +8,7 @@ A collection of articles aimed at empowering the data-curious from all walks of 
 
 ## Medium Articles
 
-• Life After Spreadsheets: Python for Productive People
+• Life After Spreadsheets: Python for Productive People  
+
 
 • [Tableau2Slack](https://medium.com/@briancrant/sharing-data-visualizations-to-slack-with-python-b6404eb5a535?source=friends_link&sk=dad9ab8fa333cd79302ed9705145f8be)
