@@ -1,125 +1,24 @@
 # Life After Spreadsheets:  <br/> Python for Productive People
 
-It’s not exactly the first thing I tell people at parties, but… I love spreadsheets.  
+**Three software engineering concepts that I wish I knew when I began teaching myself Python**
 
-To me, there is nothing quite as satisfying as a nicely aligned, well labeled, and color coordinated spreadsheet.
+1. Avoid Reinventing the Wheel
+2. Throw Away Your Code (Often)
+3. Stay Out of the Weeds
 
-And for most people, most of the time, spreadsheets are the right choice for the job. They are the most accessible, the easiest to use, and offer the best set of tools for organizing, manipulating, and presenting data.
+---
 
-But for some people, there may come a day when their data needs exceed that of what can be accomplished in a spreadsheet efficiently. This is exactly where I found myself a couple of years into my career: knee deep in spreadsheets, working twice as hard but only making slightly more of an impact.
+For most people, most of the time, spreadsheets are the right choice for the job. They are the most accessible, the easiest to use, and offer the best set of tools for organizing, manipulating, and presenting data.
 
-If you reach this juncture, there are only a few paths forwards:
-* Accept the manual overhead and repetition  
-* Double down on spreadsheets, macros, and VBA
-* Learn a scripting language like Python or R
+But for some, there may come a time when their data needs exceed that of what could be accomplished in a spreadsheet _efficiently_.
 
-I know I can relate.
+Making the jump from spreadsheets to programming can be an intimidating one. I've been there. There was even a time when I tried everything in my power to avoid learning Python<sup>[1]</sup>.
 
-Does any of this sound familiar? Is this you? How many `csv` and `xlsx` files are on your desktop?
-
-For the Python-curious, Python-reluctant, and those beginning to learn Python, making the jump to programming can be an intimidating one. I've been there.  
-
-In fact, I did everything in my power _to avoid_ learning Python.
-
-I had been flirting with basic command line utilities like `cat`, `awk`, `sed`, and `mv` to handle some of the influx of text files I was working with. I ventured into Homebrew and downloaded additional packages like `csvkit` and `jq`, which I still
-
-
-I do not come from a Computer Science or Software Engineering background.
-
-
-
-
-
-I know from personal experience the
-
-Three strategies for success teaching yourself Python.
-
-If you handle or analyze data on a regular basis, you have a lot to gain by learning Python. I know how intimidating it can be to take the first steps towards programming, and am here to tell you that
-
-
-
-the jump to programming can be. You may have  -- and am here to tell you some things that I've learned about software engineering that may help you make the jump.
-
-
-You don't need to have a computer science degree to be a software engineer.  
-You don't need to be a software engineer to think like one.   
-You don't need to be a software engineer to succeed with Python.  
-
-People from all walks of life are attracted to Python.
-
-Three things I wish I knew about software engineering bef, from one non-software engineer to another.
-
-If you handle or analyze data on a regular basis, I know how intimidating the jump to programming can be -- and am here to tell you some things that I've learned about software engineering that may help you make the jump.
-
-Three winning strategies for teaching yourself Python,
-
-Python-curious, Python-reluctant, and
-
-Whether you are Python-curious, Python-reluctant, or just beginning to learn Python,
-if you handle or analyze data on a regular basis, you have a lot to gain by taking the leap. I'm here to tell you that you can do it!
-
-If you handle or analyze data on a regular basis, I encourage you to take the leap and give programming a shot. You may be surprised what you find.
-
-
-
-Three tips for thinking like a software engineer until you are one.
-(Hint: You don't need to be a )
-
-You don't need to know software engineering to succeed with Python.
-
-
-
-It’s not the first thing I tell people at parties, but… I love spreadsheets. To me, there is nothing quite as satisfying as a nicely aligned, well labeled, and color coordinated spreadsheet.
-
-And for most people, most of the time, spreadsheets are the right choice for the job. They are the most accessible, the easiest to use, and offer the best set of tools for organizing, manipulating, and presenting data.
-
-But for some people, there may come a day when their data needs exceed that of what can be accomplished in a spreadsheet efficiently. This is where I found myself a couple of years into my career: knee deep in spreadsheets, working twice as hard but only making slightly more of an impact.
-
-When you reach this juncture, your choices are pretty straightforward:
-Accept the manual overhead and repetition
-Double down on Excel
-Utilize VBA as much as possible
-Accept some manual overhead
-Learn a scripting language like Python or R
-
-Does any of this sound familiar? Is this you? How many `csv` and `xlsx` files are on your desktop?
-
-I knew what needed to be done,
-
-
-I had been flirting with basic command line utilities like `cat`, `awk`, `sed`, and `mv` to handle some of the influx of text files I was working with. I ventured into Homebrew and downloaded additional packages like `csvkit` and `jq`, which I still make heavy use of to this day.
-
-I knew what
-
-
-I knew what needed to be done.
-
-
-If you are like me
-
-I did everything in my power to avoid learning Python. I knew what needed to be done.
-
-
-Whether you are Python-curious
-
-So I decided to switch things up.
-
-
-I began teaching myself Python in the Fall of 2019.
-
-
-So why should you listen to Spreadsheet McGee explain software engineering?
-
-Programming Concepts for
-
-Between my day job, personal projects, and freelance analytics consulting, I spent at least four days a week programming in Python in the last year.
-
-Intro…
-
-Will be a combination of technical, project management, and meta-skills that no one ever really teaches you or tells you about that are important to software engineering.
-
-A little about myself…
-I began teaching myself Python in the Fall of 2019. My career in analytics and operations began requiring skills beyond spreadsheets.
+If you handle or analyze data on a regular basis, whether you are Python-curious, Python-reluctant like I was, or beginning to learn Python as we speak, I would like to send you my encouragement and reassure you that:
+* You don't need a computer science degree to be a software engineer.
+* You don't need to be a software engineer to think like one.
+* You can think like a software engineer.
+* You can succeed with Python.
 
 <br>
 
@@ -158,3 +57,10 @@ Invest in the final destination, not the road that takes you there. When you get
 3. Write code that is error-prone and hard to maintain
 
 By forcing the wrong tool(s) to behave the right way for your specific problem, you will build a weak and limiting foundation to your program.
+
+
+
+
+
+
+[1] If after reading this article, you still wish to avoid learning Python... I found _some_ success using basic command line utilities like `cat`, `awk`, `sed`, and `mv` to work with large volumes of text files more effectively. This proved fruitful, so I downloaded some additional packages from [Homebrew](https://brew.sh/) like `csvkit` (which is written in Python FYI) and `jq`, both of which I still use today.
