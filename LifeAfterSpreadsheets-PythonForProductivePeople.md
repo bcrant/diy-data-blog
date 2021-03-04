@@ -12,10 +12,10 @@ For most people, most of the time, spreadsheets are the right choice for the job
 
 But for some, there may come a time when their data needs exceed that of what could be accomplished in a spreadsheet efficiently.
 
-Making the jump from spreadsheets to Python can be an intimidating one. I've been there, and even tried several bandaid-like solutions _to avoid_ learning Python<sup>[1]</sup>. I did not believe in myself. In hindsight, my fear was based on a misconception; that because I did not have a background in computer science or software engineering, that I did not have the foundation to be successful with Python.
+Making the jump from spreadsheets to Python can be an intimidating one. I've been there, and even tried several bandaid-like solutions _to avoid_ learning Python<sup>[1]</sup>. I did not believe in myself. In hindsight, my fear was based on a misconception I had, that because I do not have a background in computer science or software engineering, that I did not have the foundation to be successful with Python.
 
 If you handle or analyze data on a regular basis, whether you are Python-curious, Python-reluctant, or beginning to learn Python as we speak, I would like to send you my encouragement and reassure you that:
-* You don't need a computer science degree to be a software engineer.
+* You don't need a computer science degree to build production-grade systems.
 * You don't need to be a software engineer to think like one.
 * You can think like a software engineer.
 * You can succeed with Python.
