@@ -2,9 +2,9 @@
 
 **Three software engineering concepts that I wish I knew when I began teaching myself Python**
 
-1. Avoid Reinventing the Wheel
+1. Don't Reinvent the Wheel, Borrow One
 2. Throw Away Your Code (Often)
-3. Stay Out of the Weeds
+3. Keep it Simple
 
 ---
 
@@ -12,20 +12,19 @@ For most people, most of the time, spreadsheets are the right choice for the job
 
 But for some, there may come a time when their data needs exceed that of what could be accomplished in a spreadsheet efficiently.
 
-Making the jump from spreadsheets to Python can be an intimidating one. I've been there, and even tried several bandaid-like solutions _to avoid_ learning Python<sup>[1]</sup>. I did not believe in myself. In hindsight, my fear was based on a misconception I had, that because I do not have a background in computer science or software engineering, that I did not have the foundation to be successful with Python.
+Making the jump from spreadsheets to Python can be an intimidating one. I've been there, and even tried several bandaid-like solutions _to avoid_ learning Python<sup>[1]</sup>. I did not believe in myself. In hindsight, my fear was based on a misconception I had, that because I did not have a background in computer science or software engineering, I did not have the foundation neccesary to be successful with Python.
 
 If you handle or analyze data on a regular basis, whether you are Python-curious, Python-reluctant, or beginning to learn Python as we speak, I would like to send you my encouragement and reassure you that:
-* You don't need a computer science degree to build production-grade systems.
-* You don't need to be a software engineer to think like one.
-* You can think like a software engineer.
-* You can succeed with Python.
+* You don't need a computer science degree to build production-grade systems
+* You don't need to be a software engineer to think like one
+* You can succeed with Python
 
 <br>
 
-### Avoid Reinventing the Wheel
+### Don't Reinvent the Wheel, Borrow One
 When solving business problems, you very rarely will need to venture into uncharted territory. This is especially true of Python, which attracts users from many different professional and academic fields, and has an immense collection of extended functionalities on [The Python Package Index](https://pypi.org/).
 
-That is not to say that your problem is not complex, or that your solution will not be unique to your specific set of circumstances. A common example may be the specific combination of third-party tools that your sales and marketing teams use, or perhaps disparate data sources that you need to integrate for analysis. Rather, this just means that it is inevitable that some or all of the business logic required to solve your problem is an existing, well-defined computing process or behavior.
+That is not to say that your problem is not complex, or that your solution will not be unique to your specific set of circumstances. Rather, this just means that it is inevitable that some or all of the business logic required to solve your problem is an existing, well-defined computing process or behavior.
 
 During the planning and design phase of your Python project, be mindful to differentiate the details from the objective, and identify common behaviors in your project where you could leverage existing solutions. By developing an awareness of when you can lean on existing technologies, you can significantly decrease the time it takes you to get up and running.
 
@@ -44,7 +43,7 @@ Keeping your project in a well maintained repository will make it much easier fo
 
 <br>
 
-### Stay Out of the Weeds
+### Keep it Simple
 One of the best skills you can develop to increase your productivity is an awareness of when you have wandered into the deep end. For the ultra-curious it can be easy to get lost in the specifics, and look for a solution where there is not one. It takes much more time to force the wrong tool to behave the right way than it does to find the right tool. This is reinforced by some of the observations in [The Zen of Python](https://www.python.org/dev/peps/pep-0020/):
 
 > Simple is better than complex.  
@@ -58,7 +57,11 @@ Invest in the final destination, not the road that takes you there. When you get
 
 By forcing the wrong tool(s) to behave the right way for your specific problem, you will build a weak and limiting foundation for your application.
 
+---
 
+<br>
+
+Keeping these three things in mind, I encourage you to dive in.
 
 
 <br><br><br><br>
