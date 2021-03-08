@@ -57,11 +57,19 @@ Invest in the final destination, not the road that takes you there. When you get
 
 By forcing the wrong tool(s) to behave the right way for your specific problem, you will build a weak and limiting foundation for your application.
 
----
-
 <br>
 
-Keeping these three things in mind, I encourage you to dive in.
+---
+
+Keeping these three things in mind, you will have the foresight and situational awareness to identify and avoid common pitfalls on your Python journey.
+
+I encourage you to put aside any doubts that may be holding you back and start learning Python on your own! I personally have found teaching myself Python to be an incredibly rewarding and satisfying experience.
+
+There's not too many feelings better than writing a program that does parts of your job for you. I don't want to sound dramatic... but it's like giving yourself a million high fives, a raise, and kicking your feet up on a 24kt gold desk.
+
+And with a little bit of patience, persistence, and the three tips for how to teach yourself Python outlined in this post, I am confident that you will be automating yourself into redundancy in no time!
+
+
 
 
 <br><br><br><br>
