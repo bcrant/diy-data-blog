@@ -8,6 +8,10 @@
 
 ---
 
+<img src="./images/LifeAfterSpreadsheets.png" width=500px> </img>  
+
+<br>
+
 For most people, most of the time, spreadsheets are the right choice for the job. They are the most accessible, the easiest to use, and offer the best set of tools for organizing, manipulating, and presenting data.
 
 But for some, there may come a time when their data needs exceed that of what could be accomplished in a spreadsheet efficiently.
@@ -44,7 +48,9 @@ Keeping your project in a well maintained repository will make it much easier fo
 <br>
 
 ### Keep it Simple
-One of the best skills you can develop to increase your productivity is an awareness of when you have wandered into the deep end. For the ultra-curious it can be easy to get lost in the specifics, and look for a solution where there is not one. It takes much more time to force the wrong tool to behave the right way than it does to find the right tool. This is reinforced by some of the observations in [The Zen of Python](https://www.python.org/dev/peps/pep-0020/):
+One of the best skills you can develop to increase your productivity is an awareness of when you have wandered into the deep end. For the ultra-curious it can be easy to get lost in the specifics, and look for a solution where there is not one.
+
+It takes much more time to force the wrong tool(s) to behave the right way than it does to find the right tool. This is reinforced by some of the observations in [The Zen of Python](https://www.python.org/dev/peps/pep-0020/):
 
 > Simple is better than complex.  
 > Complex is better than complicated.
