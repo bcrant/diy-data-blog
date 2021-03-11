@@ -8,7 +8,7 @@
 
 ---
 
-<img src="./images/LifeAfterSpreadsheets.png" width=500px> </img>  
+<img src="./images/LifeAfterSpreadsheets.png" width=600px> </img>  
 
 <br>
 
@@ -25,7 +25,7 @@ If you handle or analyze data on a regular basis, whether you are Python-curious
 
 <br>
 
-### Don't Reinvent the Wheel, Borrow One
+## Don't Reinvent the Wheel, Borrow One <img src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png" width=25px></img>
 When solving business problems, you very rarely will need to venture into uncharted territory. This is especially true of Python, which attracts users from many different professional and academic fields, and has an immense collection of extended functionalities on [The Python Package Index](https://pypi.org/).
 
 That is not to say that your problem is not complex, or that your solution will not be unique to your specific set of circumstances. Rather, this just means that it is inevitable that some or all of the business logic required to solve your problem is an existing, well-defined computing process or behavior.
@@ -38,7 +38,8 @@ An added benefit to using existing solutions for common problems is that oftenti
 
 <br>
 
-### Throw Away Your Code (Often)
+## Throw Away Your Code (Often)️ <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ae.png" width=25px></img>
+
 Be willing to delete some or all of your work and try again. It doesn’t matter if it is 100 lines. It doesn’t matter if you’ve been working on it for two hours or two weeks. You will occasionally be barking up the wrong tree. When this happens you have to be willing to let it go, regroup, ask for help, and throw away your code.
 
 In a more literal sense, if you are beginning to utilize Python to solve problems in your day to day workflow, you should take full advantage of learning version control systems while working with code -- [git](https://git-scm.com/video/what-is-git) being the standard in most workplaces.
@@ -47,7 +48,7 @@ Keeping your project in a well maintained repository will make it much easier fo
 
 <br>
 
-### Keep it Simple
+## Keep it Simple <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png" width=25px></img>
 One of the best skills you can develop to increase your productivity is an awareness of when you have wandered into the deep end. For the ultra-curious it can be easy to get lost in the specifics, and look for a solution where there is not one.
 
 It takes much more time to force the wrong tool(s) to behave the right way than it does to find the right tool. This is reinforced by some of the observations in [The Zen of Python](https://www.python.org/dev/peps/pep-0020/):
