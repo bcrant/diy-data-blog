@@ -1,6 +1,7 @@
 # Life After Spreadsheets:  <br/> Python for Productive People
 
-**Three software engineering concepts that I wish I knew when I began teaching myself Python**
+
+**Three programming habits I wish I knew when I began teaching myself Python**
 
 1. Don't Reinvent the Wheel, Borrow One
 2. Throw Away Your Code (Often)
