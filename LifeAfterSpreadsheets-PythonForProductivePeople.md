@@ -33,7 +33,7 @@ That is not to say that your problem is not complex, or that your solution will 
 
 During the planning and design phase of your Python project, be mindful to differentiate the details from the objective, and identify common behaviors in your project where you could leverage existing solutions. By developing an awareness of when you can lean on existing technologies, you can significantly decrease the time it takes you to get up and running.
 
-An added benefit to using existing solutions for common problems is that oftentimes they are more thoroughly tested and can provide a greater layer of security than an in-house solution. For instance, Flask and Django are widely adopted frameworks you can leverage to handle some of the heavy lifting required by authentication protocols like OAuth2.0.
+An added benefit to using existing solutions for common problems is that oftentimes they are more thoroughly tested and can provide a greater layer of security than an in-house solution. For instance, Flask and Django are widely adopted frameworks you can leverage to handle some of the heavy lifting required by authentication protocols like OAuth 2.0.
 
 <sub><sup> Have you been down the authentication rabbit hole yet? Have you or a loved one been affected by refresh tokens? </sup></sub>
 
