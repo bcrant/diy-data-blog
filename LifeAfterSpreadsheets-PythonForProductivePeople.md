@@ -1,17 +1,14 @@
 # Life After Spreadsheets:  <br/> Python for Productive People
 
-
 **Three programming habits I wish I knew when I began teaching myself Python**
+
+<img src="./images/LifeAfterSpreadsheets.png" width=600px> </img>  
 
 1. Don't Reinvent the Wheel, Borrow One
 2. Throw Away Your Code (Often)
 3. Keep it Simple
 
 ---
-
-<img src="./images/LifeAfterSpreadsheets.png" width=600px> </img>  
-
-<br>
 
 For most people, most of the time, spreadsheets are the right choice for the job. They are the most accessible, the easiest to use, and offer the best set of tools for organizing, manipulating, and presenting data.
 
@@ -35,7 +32,7 @@ During the planning and design phase of your Python project, be mindful to diffe
 
 An added benefit to using existing solutions for common problems is that oftentimes they are more thoroughly tested and can provide a greater layer of security than an in-house solution. For instance, Flask and Django are widely adopted frameworks you can leverage to handle some of the heavy lifting required by authentication protocols like OAuth 2.0.
 
-<sub><sup> Have you been down the authentication rabbit hole yet? Have you or a loved one been affected by refresh tokens? </sup></sub>
+<sub><sup> Have you been down the authentication rabbit hole? Have you or a loved one been affected by refresh tokens? </sup></sub>
 
 <br>
 
@@ -75,7 +72,7 @@ I encourage you to put aside any doubts that may be holding you back and start l
 
 There's not too many feelings better than writing a program that does parts of your job for you. I don't want to sound dramatic... but it's like giving yourself a million high fives, a raise, and kicking your feet up on a 24 karat gold desk.
 
-And with a little bit of patience, persistence, and the three tips for how to teach yourself Python outlined in this post, I am confident that you will be automating yourself into redundancy in no time!
+And with a little bit of patience, persistence, and the three habits for how to teach yourself Python outlined in this post, I am confident that you will be automating yourself into redundancy in no time!
 
 
 
