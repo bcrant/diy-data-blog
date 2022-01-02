@@ -12,3 +12,7 @@ A collection of articles aimed at empowering the data-curious from all walks of 
 
 
 • [Sharing Data Visualizations to Slack with Python](https://medium.com/@briancrant/sharing-data-visualizations-to-slack-with-python-b6404eb5a535?source=friends_link&sk=dad9ab8fa333cd79302ed9705145f8be)
+
+## Other Articles
+• [The Tableau Version Control Conundrum](https://github.com/bcrant/DIY-Data-Blog/blob/main/TheTableauVersionControlConundrum.md)
+
