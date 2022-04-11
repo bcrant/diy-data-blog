@@ -65,5 +65,27 @@ fastapi and gunicorn
 - There is a Kubernetes plugin for PyCharm but it is professional version only.
 
 - Building Docker image...
-`docker build -t fastapi:latest .`
+`docker build -t {DOCKERHUB_USERNAME}/{PROJECT_NAME}:latest .`
+`docker push {DOCKERHUB_USERNAME}/{PROJECT_NAME}:latest`
+
+- Make the K8s dir and configs (namespace, code, nginx, postgres, job)
+
+- From `k8s` dir...
+`kubectl apply -f namespace/`
+- do this for all config dirs (namespace, code, nginx, postgres, job)
+
+- check if running...
+`kubectl get pods -n test-fastapi -w`
+
+`kubectl describe pod postgres-deployment`
+
+- Useful for debugging...
+`kubectl get events --sort-by=.metadata.creationTimestamp`
+and teardown
+`kubectl delete all --all -n {NAMESPACE}`
+also useful for debugging a pod. Postgres process keeps getting stuck...
+`kubectl describe pod postgres-deployment-564f65fcd-wrnzb -n test-fastapi`
+
+This is what you actually want forf debugging... duh:
+`kubectl logs -p vizifi-deployment-777444fd6-pkm5c -n test-fastapi`
 
